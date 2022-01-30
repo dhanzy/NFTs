@@ -64,10 +64,15 @@ The code is separated into two.
 
 In the project directory, you can run:
 
+## Video Preview
+https://user-images.githubusercontent.com/33403043/151692597-c97e49a5-8bd0-4518-aef3-96fea4fe00af.mp4
+
+
 ### `yarn start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
